@@ -61,4 +61,4 @@ npm test
 
 [Kelly Zick](https://github.com/misskelly/)
 
-[Sally Haefling](https://github.com/SallyHaefling)
+[Sally H](https://github.com/SallyH3)
